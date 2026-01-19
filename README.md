@@ -1,2 +1,2 @@
 <h1>Amazon Sales Analysis Dashboard<h1>
-![dashboard]
+![dashboard](https://github.com/Shaifalijain789/Amazon-Sales-Analysis-Dashboard/blob/main/Dashboard.jpg)
