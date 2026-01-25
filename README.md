@@ -1,5 +1,5 @@
 # Amazon Sales Analysis Dashboard
-## Project Overview
+## Overview
 
 This project focuses on analyzing Amazon sales data to uncover key business insights related to sales performance, customer behavior, product trends, and profitability.
 An interactive dashboard is created to help stakeholders make data-driven decisions.
@@ -44,42 +44,42 @@ The dataset contains transactional sales data with the following columns:
 * Total Customers: 773
 
 ## Key Insights
-Sales by Payment Mode
+**Sales by Payment Mode**
  * Cash on Delivery (COD) is the most used payment method.
  * Online payments and card payments also contribute significantly.
 
-Sales by Ship Mode
+**Sales by Ship Mode**
  * Standard Class shipping has the highest number of orders.
  * Same Day and First Class shipping are used less frequently.
 
-Sales by Segment
+**Sales by Segment**
  * Consumer segment contributes the highest sales.
  * Followed by Corporate and Home Office segments.
 
-Sales by Category
+**Sales by Category**
  * Office Supplies generate the highest sales.
  * Technology and Furniture follow closely.
 
-Sales by Sub-Category
+**Sales by Sub-Category**
 
 Top sub-categories:
  * Phones
  * Chairs
  * Binders
 
-Seasonal Sales Trend
+**Seasonal Sales Trend**
 
  * Sales show a seasonal pattern, peaking towards the end of the year.
  * Q4 has the highest sales and profit.
 
-Regional & City Analysis
+**Regional & City Analysis**
 
  * Sales are concentrated in major cities.
  * Regional filters help analyze performance across Central, East, South, and West regions.
 
-Return Status
+**Return Status**
 
-Majority of products are not returned, indicating high customer satisfaction.
+ * Majority of products are not returned, indicating high customer satisfaction.
 
 ## Final Conclusion
 
@@ -94,6 +94,13 @@ Majority of products are not returned, indicating high customer satisfaction.
  * Improve delivery efficiency for Standard Class shipping
  * Encourage digital payments with offers and discounts
  * Target high-sales regions and cities with personalized promotions
+
+## Tools and Techonologies
+
+ * Power Query Editor
+ * Power BI
+
+## Dashboard
 
 
 ![Dashboard](Dashboard.jpg)
